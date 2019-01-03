@@ -3,8 +3,9 @@ frostfall - enable, death at max exposure
 ihud - enemy hp bar off
 
 LEGEND
-!!!! - Under Review
+!!!! - Under Review (when familiar with core use and report back)
 ???? - Optional
+     - Core
 
 IDEAS FOR NEW MODS
 NPC's pick your pockets
@@ -47,7 +48,7 @@ DEPENDENCIES
 
 GAMEPLAY CHANGES
     frostfall
-????ineed
+!!!!ineed
 
 BALANCE CHANGES
     patron gods of skyrim
@@ -56,7 +57,6 @@ BALANCE CHANGES
 !!!!equippable tomes
 !!!!artefact disenchanting
 !!!!i dont want to be a blacksmith
-????become a bard
 
 OVERHAULS
     perk - ordinator
@@ -65,9 +65,9 @@ OVERHAULS
     magic - apocalypse
     enchantments - wyntermyst
     character creation - character creation overhaul
-????towns - expanded towns and cities
-????random encounters - immersive patrols
-????random encounters - DFB random encounters MCM
+!!!!towns - expanded towns and cities
+!!!!random encounters - immersive patrols
+!!!!random encounters - DFB random encounters MCM
 
 AI CHANGES
     primal fear
@@ -79,11 +79,12 @@ IMMERSION
 !!!!supreme storms
 !!!!simply knock
 !!!!people are strangers
+!!!!paper map
 ????see enchantments
 ????holidays
 ????wet and cold
-????paper map
 ????immersive spells and light
+????become a bard
 
 CONTENT
 !!!!undeath
