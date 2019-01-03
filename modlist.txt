@@ -2,8 +2,8 @@ README
 this skyrim modlist is for the 'ebony warrior' challenge. the goal is to kill
 the ebony warrior with a character in any way while using this modlist and
 settings config the whole playthrough. mods listed with a '????' prefix are 
-optional. mods are frequently added and sometimes removed based on the rules 
-laid out in the 'addition procedure' section below.
+optional. mods are frequently added based on the rules laid out in the 
+'addition procedure' section below.
 
 ADDITION PROCEDURE
 x.   anyone may add a new mod to the bottom of 'pending' at any time
