@@ -68,6 +68,10 @@ STARTUP SETTINGS
 frostfall - enable, death at max exposure
 immersive hud - enemy hp bar off
 
+LEGEND
+!!! - Under Review
+??? - Optional
+
 IDEAS FOR NEW MODS
 something to make NPC's pick your pockets
 add activatable effects to items
@@ -78,9 +82,5 @@ combat overhaul
 some kind of dodge mod
 
 TODO
-remove the 'OPTIONAL' and 'UNDER REVIEW' sections
-add a legend describing mods that were formerly in those categories
-use '!!!' as the prefix for 'under review' and add it to the legend
-use '???' as the prefix for 'optional' and add it to the legend
 reorganize this in some fashion
 
