@@ -1,0 +1,63 @@
+QUALITY OF LIFE
+live another life
+dead is dead
+autosave manager
+convenient horses
+???dual cursor fix
+???borderless window
+
+FAST TRAVEL
+blackreach railroad
+skyrim wayshrines
+better fast travel
+
+DEPENDENCIES
+papyrus Util
+skyrim script extender
+skyUI
+campfire
+
+GAMEPLAY CHANGES
+frostfall
+???some kind of dodge mod
+???ineed
+ish's souls to perks
+patron gods of skyrim
+???undeath
+
+OVERHAULS
+perk - ordinator
+standing stone - andromeda
+race - imperious
+magic - apocalypse
+enchantments - wyntermyst
+character creation overhaul
+???towns - expanded towns and cities
+???random encounters - immersive patrols
+???random encounters - DFB random encounters MCM
+???combat overhaul
+
+AI CHANGES
+primal fear
+immersive npc in the dark
+???changes to stealth, agression, and detection
+
+IMMERSION
+immersive hud
+realistic nights
+supreme storms
+simply knock
+people are strangers
+see enchantments
+
+OPTIONAL
+become a bard
+holidays
+wet and cold
+paper map
+immersive spells and light
+
+UNDER REVIEW
+daedric and devine cloaks
+equippable tomes
+artefact disenchanting
