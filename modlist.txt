@@ -70,8 +70,8 @@ OVERHAULS
 !!!!DFB random encounters MCM (hostile random encounters)
 
 AI CHANGES
-    primal fear
-    immersive npc in the dark
+!!!!primal fear
+!!!!immersive npc in the dark
 
 IMMERSION
     immersive hud
