@@ -36,6 +36,7 @@ find out if ordinator and apocalypse need a compatibility patch (probably)
 flesh out 'startup settings'. use as many defaults as possible.
 the current modlist is organized by our design philosophy. maybe add another
 organized by the vortex mod manager categories so it is easier to compare.
+remake this in markdown. call it readme.md so it shows up without being clicked
 
 PENDING
 patron gods of skyrim
@@ -61,6 +62,7 @@ skyrim reputation
 skytoxin
 staves of skyrim
 skyre (as an alternative to ordinator)
+live another life add-on
 
 MODLIST########################################################################
 
