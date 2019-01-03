@@ -12,7 +12,7 @@ x.   anyone may add a new mod to the bottom of 'pending' at any time
 3.a. if it passes unanamously it is added to core and removed from 'pending'
 3.b. if it fails unanamously it is removed from 'pending'
 3.c. otherwise it is moved to the bottom of 'pending'
-4.   each player ends each vote by synchronously bumping one mod up 'pending'
+4.   at the end of each vote each player may move one mod one slot up the list
 
 STARTUP SETTINGS
 frostfall - enable, death at max exposure
@@ -55,6 +55,8 @@ simply knock
 people are strangers
 paper map
 undeath
+character creation overhaul
+apocalypse
 
 MODLIST########################################################################
 
@@ -87,9 +89,7 @@ OVERHAULS
     ordinator (perks)
     andromeda (standing stones)
     imperious (races)
-    apocalypse (magic) 
     wyntermyst (enchantments)
-    character creation overhaul (duh)
 
 AI CHANGES
 none :(
