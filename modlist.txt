@@ -51,8 +51,8 @@ GAMEPLAY CHANGES
 !!!!ineed
 
 BALANCE CHANGES
-    patron gods of skyrim
-    ish's souls to perks
+!!!!patron gods of skyrim
+!!!!ish's souls to perks
 !!!!daedric and divine cloaks
 !!!!equippable tomes
 !!!!artefact disenchanting
