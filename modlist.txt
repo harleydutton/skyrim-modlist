@@ -57,6 +57,10 @@ paper map
 undeath
 character creation overhaul
 apocalypse
+skyrim reputation
+skytoxin
+staves of skyrim
+skyre (as an alternative to ordinator)
 
 MODLIST########################################################################
 
