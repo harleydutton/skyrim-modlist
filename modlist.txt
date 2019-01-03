@@ -59,15 +59,15 @@ BALANCE CHANGES
 !!!!i dont want to be a blacksmith
 
 OVERHAULS
-    perk - ordinator
-    standing stone - andromeda
-    race - imperious
-    magic - apocalypse
-    enchantments - wyntermyst
-    character creation - character creation overhaul
-!!!!towns - expanded towns and cities
-!!!!random encounters - immersive patrols
-!!!!random encounters - DFB random encounters MCM
+    ordinator (perks)
+    andromeda (standing stones)
+    imperious (races)
+    apocalypse (magic) 
+    wyntermyst (enchantments)
+    character creation overhaul (duh)
+!!!!expanded towns and cities (duh)
+!!!!immersive patrols (neutral random encounters)
+!!!!DFB random encounters MCM (hostile random encounters)
 
 AI CHANGES
     primal fear
