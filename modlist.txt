@@ -1,11 +1,22 @@
+README
+this skyrim modlist is for the 'ebony warrior' challenge. the goal is to kill
+the ebony warrior with a character in any way while using this modlist and
+settings config the whole playthrough. mods listed with a '????' prefix are 
+optional. mods are frequently added and sometimes removed based on the rules 
+laid out in the 'addition procedure' section below.
+
+ADDITION PROCEDURE
+x.   anyone may add a new mod to the bottom of 'pending' at any time
+1.   everyone uses the mod at the top of the 'pending' list in addition to core
+2.   everyone plays a few runs and votes to add the mod to core or not
+3.a. if it passes unanamously it is added to core and removed from 'pending'
+3.b. if it fails unanamously it is removed from 'pending'
+3.c. otherwise it is moved to the bottom of 'pending'
+4.   each player ends each vote by synchronously bumping one mod up 'pending'
+
 STARTUP SETTINGS
 frostfall - enable, death at max exposure
 ihud - enemy hp bar off
-
-LEGEND
-!!!! - Under Review (when familiar with core use and report back)
-???? - Optional
-     - Core
 
 IDEAS FOR NEW MODS
 NPC's pick your pockets
@@ -24,6 +35,24 @@ add links for the mods
 find out if ordinator and apocalypse need a compatibility patch (probably)
 flesh out 'startup settings'. use as many defaults as possible.
 
+PENDING
+patron gods of skyrim
+ish's souls to perks
+daedric and divine cloaks
+equippable tomes
+artefact disenchanting
+i dont want to be a blacksmith
+ineed
+expanded towns and cities (duh)
+immersive patrols (neutral random encounters)
+DFB random encounters MCM (hostile random encounters)
+primal fear
+immersive npc in the dark
+supreme storms
+simply knock
+people are strangers
+paper map
+undeath
 
 ###############################################################################
 
@@ -48,15 +77,9 @@ DEPENDENCIES
 
 GAMEPLAY CHANGES
     frostfall
-!!!!ineed
 
 BALANCE CHANGES
-!!!!patron gods of skyrim
-!!!!ish's souls to perks
-!!!!daedric and divine cloaks
-!!!!equippable tomes
-!!!!artefact disenchanting
-!!!!i dont want to be a blacksmith
+none :(
 
 OVERHAULS
     ordinator (perks)
@@ -65,27 +88,22 @@ OVERHAULS
     apocalypse (magic) 
     wyntermyst (enchantments)
     character creation overhaul (duh)
-!!!!expanded towns and cities (duh)
-!!!!immersive patrols (neutral random encounters)
-!!!!DFB random encounters MCM (hostile random encounters)
 
 AI CHANGES
-!!!!primal fear
-!!!!immersive npc in the dark
+none :(
 
 IMMERSION
     immersive hud
     realistic nights
-!!!!supreme storms
-!!!!simply knock
-!!!!people are strangers
-!!!!paper map
 ????see enchantments
 ????holidays
 ????wet and cold
 ????immersive spells and light
 ????become a bard
 
+FUN
+????nyaa
+
 CONTENT
-!!!!undeath
+none :(
 
