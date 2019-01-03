@@ -34,6 +34,8 @@ spellcheck this
 add links for the mods
 find out if ordinator and apocalypse need a compatibility patch (probably)
 flesh out 'startup settings'. use as many defaults as possible.
+the current modlist is organized by our design philosophy. maybe add another
+organized by the vortex mod manager categories so it is easier to compare.
 
 PENDING
 patron gods of skyrim
@@ -72,7 +74,7 @@ FAST TRAVEL
 
 DEPENDENCIES
     papyrus Util
-    skyrim script extender
+    skyrim script extender (from steam)
     campfire
 
 GAMEPLAY CHANGES
