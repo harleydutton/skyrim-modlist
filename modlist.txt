@@ -1,86 +1,90 @@
-QUALITY OF LIFE
-live another life
-dead is dead
-autosave manager
-convenient horses
-skyUI
-???dual cursor fix
-???borderless window
+STARTUP SETTINGS
+frostfall - enable, death at max exposure
+ihud - enemy hp bar off
 
-FAST TRAVEL
-blackreach railroad
-swift - skyrim wayshrines
-better fast travel
+LEGEND
+!!!! - Under Review
+???? - Optional
 
-DEPENDENCIES
-papyrus Util
-skyrim script extender
-campfire
+IDEAS FOR NEW MODS
+NPC's pick your pockets
+add activatable effects to items
+dragon AI upgrade (no hovering, attack while flying, harder ground combat)
+melt down items into metals
+changes to stealth, agression, and detection
+combat overhaul
+dodge mod
+more non-violent random encounters
 
-GAMEPLAY CHANGES
-frostfall
-???ineed
+TODO
+reorganize the mod sections
+spellcheck this
+add links for the mods
+find out if ordinator and apocalypse need a compatibility patch (probably)
+flesh out 'startup settings'. use as many defaults as possible.
 
-BALANCE CHANGES
-patron gods of skyrim
-!!!daedric and devine cloaks
-!!!equippable tomes
-!!!artefact disenchanting
-!!!i dont want to be a blacksmith
-ish's souls to perks
-???become a bard
-
-OVERHAULS
-perk - ordinator
-standing stone - andromeda
-race - imperious
-magic - apocalypse
-enchantments - wyntermyst
-character creation overhaul
-???towns - expanded towns and cities
-???random encounters - immersive patrols
-???random encounters - DFB random encounters MCM
-
-AI CHANGES
-primal fear
-immersive npc in the dark
-
-IMMERSION
-immersive hud
-realistic nights
-!!!supreme storms
-!!!simply knock
-!!!people are strangers
-???see enchantments
-???holidays
-???wet and cold
-???paper map
-???immersive spells and light
-
-OPTIONAL (TODO: remove this section and use '???' as a prefix for optional)
-
-CONTENT
-!!!undeath
 
 ###############################################################################
 
-STARTUP SETTINGS
-frostfall - enable, death at max exposure
-immersive hud - enemy hp bar off
+QUALITY OF LIFE
+    live another life
+    dead is dead
+    autosave manager
+    convenient horses
+    skyUI
+????dual cursor fix
+????borderless window
 
-LEGEND
-!!! - Under Review
-??? - Optional
+FAST TRAVEL
+    blackreach railroad
+    swift - skyrim wayshrines
+    better fast travel
 
-IDEAS FOR NEW MODS
-something to make NPC's pick your pockets
-add activatable effects to items
-dragon AI upgrade (no hovering, attack while flying, harder ground combat)
-something to melt down items into metals
-changes to stealth, agression, and detection
-combat overhaul
-some kind of dodge mod
+DEPENDENCIES
+    papyrus Util
+    skyrim script extender
+    campfire
 
-TODO
-reorganize this in some fashion
+GAMEPLAY CHANGES
+    frostfall
+????ineed
+
+BALANCE CHANGES
+    patron gods of skyrim
+    ish's souls to perks
+!!!!daedric and divine cloaks
+!!!!equippable tomes
+!!!!artefact disenchanting
+!!!!i dont want to be a blacksmith
+????become a bard
+
+OVERHAULS
+    perk - ordinator
+    standing stone - andromeda
+    race - imperious
+    magic - apocalypse
+    enchantments - wyntermyst
+    character creation - character creation overhaul
+????towns - expanded towns and cities
+????random encounters - immersive patrols
+????random encounters - DFB random encounters MCM
+
+AI CHANGES
+    primal fear
+    immersive npc in the dark
+
+IMMERSION
+    immersive hud
+    realistic nights
+!!!!supreme storms
+!!!!simply knock
+!!!!people are strangers
+????see enchantments
+????holidays
+????wet and cold
+????paper map
+????immersive spells and light
+
+CONTENT
+!!!!undeath
 
