@@ -4,6 +4,8 @@ dead is dead
 autosave manager
 convenient horses
 skyUI
+???dual cursor fix
+???borderless window
 
 FAST TRAVEL
 blackreach railroad
@@ -18,8 +20,15 @@ campfire
 GAMEPLAY CHANGES
 frostfall
 ???ineed
-ish's souls to perks
+
+BALANCE CHANGES
 patron gods of skyrim
+!!!daedric and devine cloaks
+!!!equippable tomes
+!!!artefact disenchanting
+!!!i dont want to be a blacksmith
+ish's souls to perks
+???become a bard
 
 OVERHAULS
 perk - ordinator
@@ -39,30 +48,25 @@ immersive npc in the dark
 IMMERSION
 immersive hud
 realistic nights
-supreme storms
-simply knock
-people are strangers
-see enchantments
+!!!supreme storms
+!!!simply knock
+!!!people are strangers
+???see enchantments
+???holidays
+???wet and cold
+???paper map
+???immersive spells and light
 
 OPTIONAL (TODO: remove this section and use '???' as a prefix for optional)
-become a bard
-holidays
-wet and cold
-paper map
-immersive spells and light
-dual cursor fix
-borderless window
 
 CONTENT
-undeath
-
-UNDER REVIEW (remove this section and have !!! be the prefix for it)
-daedric and devine cloaks
-equippable tomes
-artefact disenchanting
-i dont want to be a blacksmith
+!!!undeath
 
 ###############################################################################
+
+STARTUP SETTINGS
+frostfall - enable, death at max exposure
+immersive hud - enemy hp bar off
 
 IDEAS FOR NEW MODS
 something to make NPC's pick your pockets
@@ -76,5 +80,7 @@ some kind of dodge mod
 TODO
 remove the 'OPTIONAL' and 'UNDER REVIEW' sections
 add a legend describing mods that were formerly in those categories
+use '!!!' as the prefix for 'under review' and add it to the legend
+use '???' as the prefix for 'optional' and add it to the legend
 reorganize this in some fashion
 
