@@ -9,7 +9,7 @@ ADDITION PROCEDURE
 x.   anyone may add a new mod to the bottom of 'pending' at any time
 1.   everyone uses the mod at the top of the 'pending' list in addition to core
 2.   everyone plays a few runs and votes to add the mod to core or not
-3.a. if it passes unanamously it is added to core and removed from 'pending'
+3.a. if it passes unanamously it is added to core or optional
 3.b. if it fails unanamously it is removed from 'pending'
 3.c. otherwise it is moved to the bottom of 'pending'
 4.   at the end of each vote each player may move one mod one slot up the list
