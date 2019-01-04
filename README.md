@@ -1,4 +1,4 @@
-# The Ebony Warrior challenge  
+# The Ebony Warrior Challenge
 ## A Hardcore Skyrim Experience
 
 ### To-Do List
