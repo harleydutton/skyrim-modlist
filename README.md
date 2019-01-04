@@ -8,7 +8,7 @@
 - [ ] resolve compatibility issues
   - [ ] [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/search/)
   - [ ] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
-- [ ] flesh out `mod configurations` - use as many defaults as possible
+- [ ] flesh out `Mod Configurations` - use as many defaults as possible
 - [ ] organize by the Vortex mod manager categories
 
 ### Overview
@@ -66,10 +66,10 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * anyone may add a new mod to the bottom of `Pending Mods` at any time
 * everyone uses the mod at the top of the `Pending Mods` section in addition to core
 * everyone plays a few runs and votes to add the mod to core or not
-  * if it passes unanimously, it is added to core or optional
+  * if it passes unanimously, it is added to the `Modlist`
   * if it fails unanimously, it is removed from `Pending Mods`
-  * otherwise it is moved to the bottom of `Pending Mods`
-* at the end of each vote each player may move one mod one slot up the list
+  * otherwise, it is moved to the bottom of `Pending Mods`
+* at the end of each vote, each player may move one mod one slot up the list
 
 #### Pending Mods
 * [Patron Gods of Skyrim](https://www.nexusmods.com/skyrim/mods/65607/)
