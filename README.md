@@ -8,10 +8,12 @@
 - [ ] resolve compatibility issues
   - [ ] [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/search/)
   - [ ] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
-- [ ] flesh out `Mod Configurations` - use as many defaults as possible
-- [ ] organize by the Vortex mod manager categories
+- [ ] flesh out `In-Game Mod Settings Configurations` - use as many defaults as possible
+- [ ] flesh out the `Mod Installation Configurations` section - use defaults where possible
 - [ ] update the mod adding procedure to scale and handle adding mods as optional
-- [ ] add a procedure for removing mods or manipulating the 'optional' tag
+- [ ] add a procedure for removing mods
+- [ ] add a procedure for manipulating the 'optional' tag
+- [ ] add new sections `Easier` and `Harder` for mods that change the difficulty
 
 ### Overview
 The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wikia.com/wiki/Ebony_Warrior) in [The Elder Scrolls V: Skyrim](http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_V:_Skyrim) using the following modlist and settings configuration for the entirety of the playthrough. Mods denoted with a `--?--` are optional; mods are frequently added based upon the rules laid out in the `Additional Mods` section below.
