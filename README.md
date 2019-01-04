@@ -10,6 +10,8 @@
   - [ ] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
 - [ ] flesh out `Mod Configurations` - use as many defaults as possible
 - [ ] organize by the Vortex mod manager categories
+- [ ] update the mod adding procedure to scale and handle adding mods as optional
+- [ ] add a procedure for removing mods or manipulating the 'optional' tag
 
 ### Overview
 The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wikia.com/wiki/Ebony_Warrior) in [The Elder Scrolls V: Skyrim](http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_V:_Skyrim) using the following modlist and settings configuration for the entirety of the playthrough. Mods denoted with a `--?--` are optional; mods are frequently added based upon the rules laid out in the `Additional Mods` section below.
@@ -22,7 +24,6 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [Skyrim Script Extender (Steam)](https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/)
 
 #### Immersion
-* [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrim/mods/9557)
 * [Dead is Dead - Death Lasts Forever](https://www.nexusmods.com/skyrim/mods/60179)
 * [Frostfall](https://www.nexusmods.com/skyrim/mods/11163)
 * [Immersive Hud - iHUD](https://www.nexusmods.com/skyrim/mods/3222)
@@ -34,6 +35,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [--?--Wet and Cold](https://www.nexusmods.com/skyrim/mods/27563)
 
 #### Quality of Life
+* [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrim/mods/9557)
 * [Autosave Manager](https://www.nexusmods.com/skyrim/mods/34842)
 * [Convenient Horses](https://www.nexusmods.com/skyrim/mods/14950)
 * [SkyUi](https://www.nexusmods.com/skyrim/mods/3863)
@@ -54,11 +56,16 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 #### Recreational
 * [--?--Nyaa](https://www.nexusmods.com/skyrim/mods/86754)
 
-### Mod Configurations
+### In-Game Mod Settings Configurations
 | Mod                                                                      | Configuration                 |
 |--------------------------------------------------------------------------|-------------------------------|
 | [Frostfall](https://www.nexusmods.com/skyrim/mods/11163)                 | enable; death at max exposure |
 | [Immersive Hud - iHUD](https://www.nexusmods.com/skyrim/mods/3222)       | enemy hp bar disabled         |
+
+### Mod Installation Configurations
+| Mod                                                                      | Configuration                 |
+|--------------------------------------------------------------------------|-------------------------------|
+| [Realistic Nights](https://www.nexusmods.com/skyrim/mods/49472)          | darkest                       |
 
 ### Additional Mods
 
