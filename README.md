@@ -14,6 +14,7 @@
 - [ ] add a procedure for removing mods
 - [ ] add a procedure for manipulating the 'optional' tag
 - [ ] add new sections `Easier` and `Harder` for mods that change the difficulty
+- [ ] verify dead is dead works with campfire and without papyrus so we can remove papyrus.
 
 ### Overview
 The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wikia.com/wiki/Ebony_Warrior) in [The Elder Scrolls V: Skyrim](http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_V:_Skyrim) using the following modlist and settings configuration for the entirety of the playthrough. Mods denoted with a `--?--` are optional; mods are frequently added based upon the rules laid out in the `Additional Mods` section below.
@@ -105,6 +106,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [SkyToxin - Realistic Dangerous Poison](https://www.nexusmods.com/skyrim/mods/87546)
 * [Staves of Skyrim](https://www.nexusmods.com/skyrim/mods/22691)
 * [New Beginnings - Live Another Life Extension](https://www.nexusmods.com/skyrim/mods/70959)
+* [Ashes - A Simple and Configurable Death Mod](https://www.nexusmods.com/skyrim/mods/92743)
 
 #### Ideas for New Mods
 * NPC pickpocketing
@@ -114,4 +116,4 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * changes to stealth, aggression, and detection
 * combat overhaul
 * dodge mod
-* more non-violent random encounters
+* mojjre non-violent random encounters
