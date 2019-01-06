@@ -48,7 +48,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 #### Mechanical Overhaul
 * [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrim/mods/89219)
 * [Imperious - Races of Skyrim](https://www.nexusmods.com/skyrim/mods/61218)
-* [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/search/)
+* [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/mods/68425)
 * [Wintermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrim/mods/58635/)
 
 #### Fast Travel
@@ -107,6 +107,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [Staves of Skyrim](https://www.nexusmods.com/skyrim/mods/22691)
 * [New Beginnings - Live Another Life Extension](https://www.nexusmods.com/skyrim/mods/70959)
 * [Ashes - A Simple and Configurable Death Mod](https://www.nexusmods.com/skyrim/mods/92743)
+* [Skyrim Configuration Menu](https://www.nexusmods.com/skyrim/mods/30250)
 
 #### Ideas for New Mods
 * NPC pickpocketing
