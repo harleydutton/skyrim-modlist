@@ -28,6 +28,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 
 #### Immersion
 * [Dead is Dead - Death Lasts Forever](https://www.nexusmods.com/skyrim/mods/60179)
+* [Patron Gods of Skyrim](https://www.nexusmods.com/skyrim/mods/65607/)
 * [Frostfall](https://www.nexusmods.com/skyrim/mods/11163)
 * [Immersive Hud - iHUD](https://www.nexusmods.com/skyrim/mods/3222)
 * [Realistic Nights](https://www.nexusmods.com/skyrim/mods/49472)
@@ -82,7 +83,6 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * at the end of each vote, each player may move one mod one slot up the list
 
 #### Pending Mods
-* [Patron Gods of Skyrim](https://www.nexusmods.com/skyrim/mods/65607/)
 * [Ish's Souls to Perks](https://www.nexusmods.com/skyrim/mods/18395)
 * [Divine Cloaks](https://www.nexusmods.com/skyrim/mods/81239)
 * [Daedric Cloaks](https://www.nexusmods.com/skyrim/mods/83411)
@@ -99,14 +99,14 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [Simply Knock](https://www.nexusmods.com/skyrim/mods/73236)
 * [People are Strangers](https://www.nexusmods.com/skyrim/mods/56744)
 * [Paper World Map](https://www.nexusmods.com/skyrim/mods/25501)
+* [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
 * [Undeath](https://www.nexusmods.com/skyrim/mods/40607)
 * [Character Creation Overhaul](https://www.nexusmods.com/skyrim/mods/21587)
-* [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
 * [Reputation](https://www.nexusmods.com/skyrim/mods/95269)
 * [SkyToxin - Realistic Dangerous Poison](https://www.nexusmods.com/skyrim/mods/87546)
 * [Staves of Skyrim](https://www.nexusmods.com/skyrim/mods/22691)
-* [New Beginnings - Live Another Life Extension](https://www.nexusmods.com/skyrim/mods/70959)
 * [Ashes - A Simple and Configurable Death Mod](https://www.nexusmods.com/skyrim/mods/92743)
+* [New Beginnings - Live Another Life Extension](https://www.nexusmods.com/skyrim/mods/70959)
 * [Skyrim Configuration Menu](https://www.nexusmods.com/skyrim/mods/30250)
 
 #### Ideas for New Mods
