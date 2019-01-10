@@ -78,7 +78,7 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * everyone uses the mod at the top of the `Pending Mods` section in addition to core
 * The `Pending Mods`, `Modlist`, `In-Game Mod Setting Configurations`, and `Mod Installation Configurations` lists/tables can all be modified with a vote
   * Anyone may call a vote for any purpose at any time
-  * For a vote to be valid a Quorum, consisting of a majority of players participating in the challenge, must be present.
+  * For a vote to be valid a quorum, consisting of a majority of players participating in the challenge, must be present.
   * For a vote to pass a majority of the quorum must vote 'for'
   * When a vote concerning the top mod of `Pending Mods` fails it is moved to the bottom of the list
 
