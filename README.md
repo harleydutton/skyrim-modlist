@@ -5,16 +5,18 @@
 - [x] convert to markdown
 - [x] reorganize the mod sections
 - [x] add links for the mods
-- [ ] resolve compatibility issues
-  - [ ] [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/search/)
-  - [ ] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
+- [x] resolve compatibility issues
+  - [x] [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/search/)
+  - [x] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225)
 - [ ] flesh out `In-Game Mod Settings Configurations` - use as many defaults as possible
 - [ ] flesh out the `Mod Installation Configurations` section - use defaults where possible
-- [ ] update the mod adding procedure to scale and handle adding mods as optional
-- [ ] add a procedure for removing mods
-- [ ] add a procedure for manipulating the 'optional' tag
+- [x] update the mod adding procedure to scale and handle adding mods as optional
+- [x] add a procedure for removing mods
+- [x] add a procedure for manipulating the 'optional' tag
 - [ ] add new sections `Easier` and `Harder` for mods that change the difficulty
-- [ ] verify dead is dead works with campfire and without papyrus so we can remove papyrus.
+- [x] verify dead is dead works with campfire and without papyrus so we can remove papyrus.
+- [ ] check to reuiem for compatability issues
+- [ ] add collapsable markdown around all lists and descriptions
 
 ### Overview
 The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wikia.com/wiki/Ebony_Warrior) in [The Elder Scrolls V: Skyrim](http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_V:_Skyrim) using the following modlist and settings configuration for the entirety of the playthrough. Mods denoted with a `--?--` are optional; mods are frequently added based upon the rules laid out in the `Additional Mods` section below.
@@ -23,12 +25,10 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 
 #### Dependencies
 * [Campfire](https://www.nexusmods.com/skyrim/mods/64798)
-* [PapyrusUtil](https://www.nexusmods.com/skyrim/mods/58705)
 * [Skyrim Script Extender (Steam)](https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/)
 
 #### Immersion
 * [Dead is Dead - Death Lasts Forever](https://www.nexusmods.com/skyrim/mods/60179)
-* [Patron Gods of Skyrim](https://www.nexusmods.com/skyrim/mods/65607/)
 * [Frostfall](https://www.nexusmods.com/skyrim/mods/11163)
 * [Immersive Hud - iHUD](https://www.nexusmods.com/skyrim/mods/3222)
 * [Realistic Nights](https://www.nexusmods.com/skyrim/mods/49472)
@@ -47,10 +47,9 @@ The goal of this challenge is to kill the [Ebony Warrior](http://elderscrolls.wi
 * [--?--Double Cursor Fix](https://www.nexusmods.com/skyrim/mods/36125/)
 
 #### Mechanical Overhaul
-* [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrim/mods/89219)
 * [Imperious - Races of Skyrim](https://www.nexusmods.com/skyrim/mods/61218)
-* [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/mods/68425)
 * [Wintermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrim/mods/58635/)
+* [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrim/mods/19281)
 
 #### Fast Travel
 * [Better Fast Travel - Carriages and Ships](https://www.nexusmods.com/skyrim/mods/15508)
